@@ -1,0 +1,24 @@
+#Object and executables can be rebuilt
+*.o
+*.exe
+
+#Visual studio files
+*.ilk
+*.pdb
+*.sdf
+*.suo
+*.vsmdi
+*.tlog
+*.log
+*.manifest
+*.res
+*.lastbuildstate
+*.pch
+*.rc
+*.obj
+*.filters
+*.user
+*.ipch
+*.opensdf
+*.idb
+
